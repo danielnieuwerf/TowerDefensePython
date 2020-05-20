@@ -1,5 +1,6 @@
 # TowerDefensePython
- Download the Files folder and run the python file. 
+ - Download the Files folder and the TowerDefencePython.py file
+ - run the TowerDefencePython.py to play the game. 
 # Requirements:
 - Python
 - Pygame
