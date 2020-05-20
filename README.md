@@ -10,4 +10,5 @@
 - Click on a tower to upgrade it
 - Pause the game by pressing p or by pressing the pause button
 - Turn music on or off with the m key or by pressing the music on/off button
+- To quit pause the game then press q 
 - Survive as many waves as you can!
